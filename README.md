@@ -1,6 +1,6 @@
-  # 🚀 Automated CV Screening Pipeline — SOKO Financial Batch 15
+  # 🚀 Automated CV Screening
 
-An end-to-end automated screening pipeline built with Python and Google Colab to streamline candidate evaluation, administrative validation, CV downloading, text extraction, and matrix-based matching for **SOKO Financial Internship Recruitment**.
+An end-to-end automated screening pipeline built with Python and Google Colab to streamline candidate evaluation, administrative validation, CV downloading, text extraction, and matrix-based matching for Recruitment.
 
 ---
 
@@ -178,5 +178,4 @@ The pipeline uses explicit status indicators to prevent false rejections:
 ## 👤 Author & Acknowledgments
 
 - **Developed By**: Recruitment & Automation Team @ SOKO Financial
-- **Project Scope**: SOKO Financial Internship Batch 15 OPREC
 - **License**: MIT License
