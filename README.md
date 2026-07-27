@@ -175,7 +175,6 @@ The pipeline uses explicit status indicators to prevent false rejections:
 
 ---
 
-## 👤 Author & Acknowledgments
+##  Acknowledgments
 
-- **Developed By**: Recruitment & Automation Team @ SOKO Financial
 - **License**: MIT License
